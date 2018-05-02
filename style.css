@@ -1,0 +1,73 @@
+a {
+    color: white;
+
+    text-decoration-line: none;
+    display: contents;
+    padding: 1px;
+
+    border-radius: 1px;
+
+    font-family: ariel, sans-serif;
+    font-size: 24px;
+
+
+}
+
+a:hover {
+    color: orange;
+}
+
+h1 {
+    color: #FD9127;
+    font-size: 4em;
+    font-family: ariel, sans-serif;
+
+
+}
+
+h2 {
+    color: #FD9127;
+    font-size: 1em;
+    font-family: ariel, sans-serif;
+
+
+}
+
+body {
+    background-color: #2A303B;
+}
+
+p {
+    color: white;
+}
+
+img {
+    width: 50vw;
+    height: auto;
+}
+
+#ide .sectionwrapper {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+
+#ide .column {
+    flex-grow: 2;
+    flex-basis: 300px;
+    padding-right: 10vw
+}
+
+#persona .sectionwrapper {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+
+#persona .column {
+    flex-grow: 2;
+    flex-basis: 300px;
+    padding-right: 10vw
+}
